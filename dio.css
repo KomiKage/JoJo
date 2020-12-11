@@ -1,0 +1,17 @@
+body {
+    
+    background: url(https://i.imgur.com/0124WYL.jpg);
+  
+   background-size: auto;
+
+   background-attachment: fixed;
+
+   
+}
+
+article {
+  float: left;
+ padding: 20px;
+ width: 60%;
+  background-color: #f1f1f1b9;
+ }
